@@ -1,0 +1,30 @@
+body {
+    background: rgb(7, 132, 246);
+    background: linear-gradient(90deg, rgba(7, 132, 246, 1) 0%, rgba(31, 147, 252, 1) 35%, rgba(76, 170, 255, 1) 100%);
+}
+
+header {
+    text-align: center;
+    color: #fff;
+}
+
+div p {
+    text-align: center;
+    color: #fff;
+    font-size: 2.5em;
+    padding-top: 3em;
+}
+
+#advice {
+    text-align: center;
+}
+
+#advice-button {
+    background-color: rgb(134, 134, 134);
+    border-radius: 28px;
+    border: 1px solid #8d8d8d;
+    cursor:pointer;
+	color:#ffffff;
+    height: 3em;
+    width: 9em;
+}
